@@ -1,4 +1,6 @@
 [![MasterHead](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoonillustration_107791-3863.jpg?t=st=1652436003~exp=1652436603~hmac=c8a40ee12180e807552b727a34da71cbac21c2974ca775bdc17a5427d197083f&w=740)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 # 💫About Me :
 - 🔭 I’m currently working on **nothing**
 
