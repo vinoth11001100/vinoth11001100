@@ -1,5 +1,18 @@
 # 💫About Me :
-No comments simply waste.........
+- 🔭 I’m currently working on **nothing**
+
+- 🌱 I’m currently learning **anything**
+
+- 👯 I’m looking to collaborate on **humans**
+
+- 🤝 I’m looking for help with **open source project**
+
+- 💬 Ask me about **coding**
+
+- 📫 How to reach me **vinoth11001100@tuta.io**
+
+- ⚡ Fun fact **I think I am funny**
+
 
 ## 🌐Socials
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/vinoth11001100) 
