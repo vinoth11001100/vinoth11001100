@@ -9,7 +9,6 @@ No comments simply waste.........
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=vinoth11001100&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vinoth11001100&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinoth11001100&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vinoth11001100&icon=5&color=12)](https://visitcount.itsvg.in)
